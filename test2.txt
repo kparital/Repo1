@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2C4A-0C74
+
+ Directory of C:\Users\KrishnaveniParitala\Desktop\MyProject
+
+05/17/2021  12:56 PM    <DIR>          .
+05/17/2021  12:56 PM    <DIR>          ..
+05/17/2021  12:15 PM               368 test1.txt
+05/17/2021  12:56 PM                 0 test2.txt
+               2 File(s)            368 bytes
+               2 Dir(s)  133,055,012,864 bytes free
